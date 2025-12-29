@@ -1,1 +1,1 @@
-self-practice on language modeling by training a GPT from scratch
+self-practice on language modeling by building and training a GPT from scratch
